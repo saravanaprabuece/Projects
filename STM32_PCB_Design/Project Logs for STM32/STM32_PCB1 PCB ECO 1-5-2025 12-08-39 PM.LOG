@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=MCU_VCAP1 Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Change Component Footprint: Designator=C13 Old Footprint=FP-C0603C225K4PACTU-MFG New Footprint=CAPC1608X90X35ML10T15
+Change Managed Component Library Link : Designator=C13 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6B10DC6B-F46C-402B-9608-E0E1781B1F8A New ItemGUID=3E96DC71-BFB0-44A4-9F5B-D9FB6E35D155 Old RevisionGUID=4191140C-C39F-4EAA-94E4-E80D390119E1 New RevisionGUID=4E08EAB9-66CC-4406-9137-D3F7DFF1F29E
+Change component parameters: Designator = "C13" ("C13"); Footprint = "FP-C0603C225K4PACTU-MFG"; UniqueID = "\APFYIMNU" ("\APFYIMNU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R61C225KE15D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=MCU_VCAP1 Pin=C13-2
